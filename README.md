@@ -1,2 +1,3 @@
-# Azure-DevOps-Project-With-Terraform
-This project will focus on the complete end-to-end implementation of Azure DevOps.
+# Architecture diagram used in the video
+
+![architecture_diagram](architecture.png)
